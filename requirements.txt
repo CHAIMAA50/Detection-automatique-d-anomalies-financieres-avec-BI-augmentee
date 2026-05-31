@@ -1,0 +1,41 @@
+# Core
+pandas
+numpy
+scikit-learn
+# Deep Learning (Autoencoder)
+tensorflow
+# ou torch==2.0.1
+
+# Anomaly Detection
+pyod
+
+# Explainability
+shap
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Dashboard
+streamlit
+plotly
+
+# Database
+snowflake-connector-python
+sqlalchemy
+
+# Visualization
+matplotlib
+seaborn
+
+# Data Processing
+pyarrow
+
+# Utils
+python-dotenv
+joblib
+
+# Testing
+pytest
+httpx
